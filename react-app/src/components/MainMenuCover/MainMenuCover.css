@@ -1,0 +1,12 @@
+.main-menu-cover {
+    z-index: 1;
+    background: black;
+    opacity: 0.0;
+    transition: opacity 0.5s;
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
