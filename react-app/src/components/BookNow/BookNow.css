@@ -1,17 +1,4 @@
-.col-md-6 {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    height: 650px;
-    background-color: #020232;
-    color: #DEDEDE;
-    position: relative;
-    padding-right: 15px;
-    padding-left: 15px;
-    text-align: center;
-}
+
 
 .text-gold-border {
     display: inline-block;
@@ -26,3 +13,4 @@
     color: #E0BD77;
     border-color: #E0BD77;
 }
+

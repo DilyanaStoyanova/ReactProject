@@ -2,7 +2,7 @@ import './App.css';
 import TopIconHome from './components/TopIconHome/TopIconHome';
 import MainMenuCover from './components/MainMenuCover/MainMenuCover';
 import MainMenu from './components/MainMenu/MainMenu';
-import ContainerFluid from './components/ContainerFluid/ContainerFluid';
+import ContainerContent from './components/ContainerContent/ContainerContent';
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
       <TopIconHome />
       <MainMenuCover />
       <MainMenu />
-      <ContainerFluid />
+      <ContainerContent />
     </>
   );
 }

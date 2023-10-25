@@ -1,3 +1,4 @@
+import '../../App.css';
 import './BookNow.css';
 import goldBooking from '../../assets/Gold_Booking.png';
 
