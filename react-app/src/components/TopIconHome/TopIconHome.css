@@ -1,7 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 #top-icon-home {
     width: 80px;
     height: 80px;
-    padding: 16px;
+    padding: 12px;
     border-bottom-right-radius: 40px;
     position: fixed;
     left: 0;
@@ -25,7 +31,7 @@
 #top-icon-menu {
     width: 80px;
     height: 80px;
-    padding-top: 4px;
+    padding: 4px;
     text-align: center;
     font-size: 48px;
     border-bottom-left-radius: 40px;

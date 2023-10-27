@@ -1,6 +1,6 @@
 .banner-background {
     height: 100%;
-    background: url(../../assets/banner_large.jpg);
+    background: url('../../assets/banner_large.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

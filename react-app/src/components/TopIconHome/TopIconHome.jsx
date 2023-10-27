@@ -11,7 +11,7 @@ export default function TopIconHome() {
                 <a href="/"><img src={logo} /></a>
             </div>
             <div id="top-icon-menu" className="text-gold">
-            <FontAwesomeIcon icon={faBars} />
+            <FontAwesomeIcon icon={faBars} id="menu-button"/>
             </div>
         </>
     );
